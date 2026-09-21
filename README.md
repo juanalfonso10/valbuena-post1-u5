@@ -14,3 +14,10 @@ Repositorio del post-contenido de la Unidad 5 de Patrones de Diseño de Software
 mvn clean package
 mvn spring-boot:run
 
+
+## Evidencia de Funcionamiento
+### Lista de Reservas (MVC Thymeleaf)
+![Lista de Reservas](screenshots/captura1.png)
+
+### Validación de Solapamiento de Horario (Error 409)
+![Error de Solapamiento](screenshots/captura2.png)
